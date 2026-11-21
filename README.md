@@ -259,3 +259,18 @@ flowchart TB
 ```
 
 Если доступы не заполнены, публикатор должен остановиться с блокером и не просить пароли в чате.
+
+<!-- SAIFER_REPO_PASSPORT_BEGIN: #435 -->
+## Паспорт
+
+- **Что это:** **Nero Network Office Page** — переносимый Cursor-плагин для команды AI-агентов, которые готовят и публикуют SEO-страницы на WordPress: от темы и семантики до лонгрида, hero-анимации, визуального блока, FTP/SSH-публикации, QA и SE.
+- **Статус:** не знаю (работает / пауза / заморожено ❄️ / брошено — нет runtime-проверки).
+- **Где работает:** не знаю (сервер/ПК/сайт/облако не подтверждены).
+- **Как запустить или открыть:** [репозиторий](https://github.com/SaiferSMART/my_nero-network-office-page); запуск приложения — не знаю (ищите инструкции в README).
+- **Связанные открытые PR:** [актуальный список](https://github.com/SaiferSMART/my_nero-network-office-page/pulls?q=is%3Apr+is%3Aopen).
+- **Связанные открытые Issue:** [актуальный список](https://github.com/SaiferSMART/my_nero-network-office-page/issues?q=is%3Aissue+is%3Aopen).
+- **Дата последнего изменения GitHub:** 2026-05-25T21:08:03Z (поле `pushed_at`, любая ветка; не равно проверке эксплуатации).
+- **Кто ведёт:** не знаю; владелец репозитория GitHub — `SaiferSMART`.
+- **Вопрос к владелице:** подтвердить статус, площадку, точку входа и фактического ведущего.
+- **Задание:** [Issue №435](https://github.com/SaiferSMART/saifer-ai-ops/issues/435).
+<!-- SAIFER_REPO_PASSPORT_END -->
